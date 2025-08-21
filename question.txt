@@ -1,0 +1,11 @@
+Write a grade analyzer that takes multiple students' marks and classifies grades using
+nested if-else.
+21. Implement a program to find and print all Armstrong numbers between 1 and 10000.
+22. Write a program to reverse each word of a sentence individually without using built-in
+functions.
+23. Implement a program to find all prime numbers between 1 and N without using functions.
+24. Find the GCD (Greatest Common Divisor) of two numbers without using recursion.
+25. Create overloaded methods for finding the maximum of two, three, and four numbers.
+26. Write a recursive method to compute the Fibonacci sequence up to N terms.
+27. Implement a method to validate a strong password (must contain uppercase, lowercase,
+digit, special character).
